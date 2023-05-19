@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doga", "doga\doga.csproj", "{9F90C37E-B1C7-4E03-86FB-AFBAE48B14BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F90C37E-B1C7-4E03-86FB-AFBAE48B14BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F90C37E-B1C7-4E03-86FB-AFBAE48B14BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F90C37E-B1C7-4E03-86FB-AFBAE48B14BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F90C37E-B1C7-4E03-86FB-AFBAE48B14BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FA0B874-89C2-4DE1-AF06-8A2393D89B25}
+	EndGlobalSection
+EndGlobal
